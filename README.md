@@ -1,4 +1,4 @@
 # myaps-demo
-this is my first git repository
+This is my first Git Repository
 <br>
 Author_ Tabish Khan
